@@ -1,6 +1,6 @@
 ..
 ----
-local
+protected
 changed user to vicky
 demo-1
 stasshing this line
